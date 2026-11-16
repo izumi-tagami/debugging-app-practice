@@ -18,3 +18,4 @@ COACHTECH 教材 Tutorial 10-4「デバッグ ハンズオン演習」で作成�
 ## 動作確認
 http://localhost/users/create　にアクセスし、ユーザー登録した際にエラーが発生せずに登録が完了する。
 http://localhost/users　に自分で登録したユーザーが表示される。
+<img width="1190" height="747" alt="スクリーンショット 2026-11-16 200239" src="https://github.com/user-attachments/assets/52f3a53d-2450-4a69-9ab0-782fa26b7760" />
